@@ -1,0 +1,9 @@
+c:\users\wingg\source\repos\Buzzfeed2\Buzzfeed2\bin\Debug\Database1.mdf
+c:\users\wingg\source\repos\Buzzfeed2\Buzzfeed2\bin\Debug\Database1_log.ldf
+c:\users\wingg\source\repos\Buzzfeed2\Buzzfeed2\bin\Debug\Buzzfeed2.exe.config
+c:\users\wingg\source\repos\Buzzfeed2\Buzzfeed2\bin\Debug\Buzzfeed2.exe
+c:\users\wingg\source\repos\Buzzfeed2\Buzzfeed2\bin\Debug\Buzzfeed2.pdb
+c:\users\wingg\source\repos\Buzzfeed2\Buzzfeed2\obj\Debug\Buzzfeed2.csprojResolveAssemblyReference.cache
+c:\users\wingg\source\repos\Buzzfeed2\Buzzfeed2\obj\Debug\Buzzfeed2.csproj.CoreCompileInputs.cache
+c:\users\wingg\source\repos\Buzzfeed2\Buzzfeed2\obj\Debug\Buzzfeed2.exe
+c:\users\wingg\source\repos\Buzzfeed2\Buzzfeed2\obj\Debug\Buzzfeed2.pdb
